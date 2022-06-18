@@ -16,5 +16,5 @@ while True :
         p.color = color.magenta
         g.color = color.white
     if ' ' in k :
-        label(text = '축하합니다! 당첨되셨습니다!', pos = vec(0,1.5,0))
+        label(text = '당첨되셨습니다! 축하합니다!', pos = vec(0,1.5,0))
         break
